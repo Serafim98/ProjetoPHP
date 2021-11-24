@@ -1,6 +1,5 @@
 {
     "name": "serafim/projetophpfinal",
-    "description": "Projeto PHP e MySql usando o Composer",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
